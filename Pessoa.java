@@ -1,4 +1,3 @@
-import java.io.StringReader;
 
 public class Pessoa{
     
